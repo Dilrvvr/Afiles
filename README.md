@@ -60,6 +60,6 @@
 <img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/005.PNG" width="375"><br/>
 
 ***
-<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/006.jpg" width="375"><br/>
+<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/006.PNG" width="375"><br/>
 
 ***
