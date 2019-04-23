@@ -2,7 +2,7 @@
 
 ### 文件传输
 
-- AirDrop(隔空投送): 苹果全家桶用户推荐，通过Airdrop便捷传输文件。如遇到接收列表未出现Afiles应用，可点击『使用“文件”打开』，通过系统Files(文件)APP将文件存储到Afiles中。
+- AirDrop(隔空投送): 苹果全家桶用户推荐，通过AirDrop便捷传输文件。如遇到接收列表未出现Afiles应用，可点击『使用“文件”打开』，通过系统Files(文件)APP将文件存储到Afiles中。
 
 - iTunes文件共享: 在 Mac 或 PC 上打开 iTunes。使用设备自带的 USB 连接线将您的 iPhone、iPad 或 iPod touch 连接到电脑。在 iTunes 中点按您的设备。在左边栏中，点按“文件共享”。选择Afiles以查看其中的文件。您可将其中的文件导出，或将其它文件导入到该APP。导入成功后在Afiles首页点击右下角+号，选择『刷新当前目录』，即可看到您导入的新文件。
 
