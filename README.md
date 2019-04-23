@@ -12,11 +12,11 @@
 ### 基本功能
 
 - 文件预览、分享、搜索、拷贝(复制)、移动、删除、重命名、压缩、制作替身(快捷方式)等。
-- 多种文件排序方式，支持将文件夹保持位置在上(默认)、下或与文件混合。
+- 支持多种文件排序方式，支持将文件夹保持位置在上(默认)、下或与文件混合。
 - 支持zip文件解压缩(暂仅支持GB18030)。
 - 支持文本创建和简单编辑(创建文件默认编码UTF8)，文本编辑则按照文本原编码。
-- 支持保险箱功能，保护您的隐私(注: 保险中将屏蔽文件替身功能，替身若指向保险箱中的文件，也将失效)。
-- 支持导入系统相册中文件及将图片文件保存至系统相册。
+- 支持保险箱功能，保护您的隐私(注: 保险箱中将屏蔽文件替身功能，若替身指向保险箱中的文件，也将失效)。
+- 支持导入系统相册中文件及将图片文件批量保存至系统相册。
 - 支持iCloud文件导入。
 
 
@@ -44,3 +44,22 @@
 - QQ Group: 136765517
 - Twitter: @jacky_ayb
 - Weibo: @安-小坏
+
+
+### APP预览
+
+***
+<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/001.PNG" width="375"><br/>
+***
+<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/002.PNG" width="375"><br/>
+***
+<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/003.PNG" width="812"><br/>
+***
+<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/004.PNG" width="375"><br/>
+***
+<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/005.PNG" width="375"><br/>
+
+***
+<img src="https://github.com/Jacky-An/Afiles/raw/master/introduction/006.jpg" width="375"><br/>
+
+***
